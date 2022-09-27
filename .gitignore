@@ -1,0 +1,17 @@
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+.env
+.cache
+.brownie
+.config
+.dbus
+.fly
+.landscape
+.local
+.node 
+.npm
+.nvm
+
